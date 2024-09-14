@@ -40,3 +40,10 @@
 # Минтақаи мурдаҳои муваққатӣ (TDZ) дар JavaScript ба даврае, ки дар байни а
 **тағирёбанда бо истифода аз let ё const эълон карда мешавад ва вақте ки он оғоз карда мешавад. Дар ин муддат агар
 шумо кӯшиш мекунед, ки ба тағирёбанда дастрасӣ пайдо кунед, он ReferenceError-ро мепартояд.**
+
+![](https://avatars.mds.yandex.net/i?id=e1ce819f04128b8b1010510fdd45d734ad62a5d2-10166367-images-thumbs&n=13)
+
+----
+
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0dhiqdD3lx6hJOeeoct_Yu6ij3Uc3Qyurw&s)
